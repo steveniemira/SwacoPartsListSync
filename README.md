@@ -1,4 +1,4 @@
-SwacoPartsListSync
+SolidWorksPartsListSync
 ==================
 
 Syncs Parts list balloon numbers on Drawings with multiple parts lists.
